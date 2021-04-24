@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JimyMaulana
-- 👀 I’m interested in fron end developer
+- 👀 I’m interested in front end developer
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
